@@ -2,7 +2,7 @@
 title: Faisal
 subtitle: Amin
 email: faisal.amin01@outlook.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: Welcome to my site.
 baseurl:  # the subpath of your site, e.g. /blog
 url: faisalam1n.github.io
 author: Faisal Amin
@@ -22,12 +22,12 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: https://github.com/faisalam1n
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  Google-Plus: 
+  Instagram: https://instagram.com/faisalam1n
+  LinkedIn: https://www.linkedin.com/in/faisalam1n
+  Twitter: https://twitter.com/faisalam1n
   Facebook:
   Slack:
 
