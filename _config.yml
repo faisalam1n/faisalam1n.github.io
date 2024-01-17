@@ -1,11 +1,11 @@
 # site settings
-title: Forty
+title: Faisal
 subtitle: by HTML5 UP
 email: faisal.amin01@outlook.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author:
+baseurl:  # the subpath of your site, e.g. /blog
+url: faisalam1n.github.io
+author: Faisal Amin
 street_address: 1234 Somewhere Road
 city: Nashville
 state: TN
